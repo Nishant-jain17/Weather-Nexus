@@ -3,6 +3,8 @@
 Welcome to Weather Nexus! This is a simple yet powerful weather website that provides real-time weather updates for any city in the world. The site is built using HTML, CSS, and JavaScript.
 
 <br>
+### Enjoy using Todo Bliss to manage your tasks efficiently and stylishly!Enjoy using Todo Bliss to manage your tasks efficiently and stylishly!
+https://nishant-jain17.github.io/Weather-Nexus/
 
 ### Features
 
