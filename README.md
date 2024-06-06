@@ -58,16 +58,16 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 <br>
 
-Acknowledgements
+## Acknowledgements
 OpenWeatherMap for providing the weather API.
 FontAwesome for the weather icons.
 <br>
 
-Contact
+### Contact
 For any questions or feedback, feel free to reach out:
 
-Email: assasnj@gmail.com
-GitHub: Nishant-jain17
+## Email: assasnj@gmail.com
+## GitHub: Nishant-jain17
 Thank you for using Weather Nexus!
 
 
