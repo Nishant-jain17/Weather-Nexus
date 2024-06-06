@@ -4,7 +4,7 @@ Welcome to Weather Nexus! This is a simple yet powerful weather website that pro
 
 <br>
 
-## Enjoy using Todo Bliss to manage your tasks efficiently and stylishly!Enjoy using Todo Bliss to manage your tasks efficiently and stylishly!
+## Enjoy using Weather Nexus to manage your tasks efficiently !
 https://nishant-jain17.github.io/Weather-Nexus/
 
 ### Features
